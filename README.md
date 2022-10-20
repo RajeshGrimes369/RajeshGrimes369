@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeshGrimes369
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krajeshkanna02@gmail.com
 
